@@ -1,0 +1,4 @@
+title: Load of the Ciel
+artist: sky_delta
+bpm: 175
+hard_diff: 9
